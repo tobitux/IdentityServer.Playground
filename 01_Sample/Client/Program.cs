@@ -5,7 +5,7 @@ using IdentityModel.Client;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace _01_Sample.Client
+namespace Client
 {
     public class Program
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _01_Sample.Api.Controllers
+namespace Api.Controllers
 {
     [Route("identity")]
     [Authorize]

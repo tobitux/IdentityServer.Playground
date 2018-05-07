@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using IdentityServer4.AccessTokenValidation;
 
-namespace _01_Sample.Api
+namespace Api
 {
     public class Startup
     {
